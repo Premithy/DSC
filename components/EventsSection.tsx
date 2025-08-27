@@ -34,6 +34,22 @@ const events = [
     featured: false,
     registrationUrl: "https://campus.hellorubric.com/?eid=39022"
   },
+  {
+    id: 3,
+    title: "Collaboration Workshop: Generative AI",
+    date: "2025/09/08",
+    time: "4:00 PM",
+    location: "EZONE UWA Student Hub",
+    description: "Generative AI Data Cleaning Workshop (UWA × UniMelb Collaboration) Join us for a unique simultaneous workshop with the Data Science Student Society (UniMelb), where students from both campuses will learn, code, and compete together to build their own AI-powered data cleaning agent",
+    image: "https://cachedresources.hellorubric.com/uploaded_assets/8fd9020e-710e-47bc-ad18-babdc9a2a9f3.png",
+    price: "$0",
+    category: "Workshop",
+    level: "intermediate",
+    featured: true,
+    registrationUrl: "https://campus.hellorubric.com/?eid=39898"
+  },
+
+  
   
 
   
