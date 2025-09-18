@@ -8,20 +8,6 @@ import Link from "next/link";
 const events = [
   {
     id: 1,
-    title: "Computer Vision and Machine Learning Workshop",
-    date: "2025/08/28",
-    time: "5:00 PM",
-    location: "EZONE Central",
-    description: "Join us for an exclusive workshop in collaboration with OncoRes Medical, exploring how cutting-edge CV and ML techniques are transforming breast cancer surgery. Learn how OncoRes applies these methods in real-world clinical settings to enhance surgical precision and patient outcomes.",
-    image: "https://images.pexels.com/photos/5380664/pexels-photo-5380664.jpeg?auto=compress&cs=tinysrgb&w=600",
-    price: "$0",
-    category: "Workshop",
-    level: "Beginner",
-    featured: true,
-    registrationUrl: "https://campus.hellorubric.com/?eid=38971"
-  },
-  {
-    id: 2,
     title: "Databricks in Action",
     date: "2025/09/18",
     time: "5:00 PM",
@@ -34,25 +20,7 @@ const events = [
     featured: false,
     registrationUrl: "https://campus.hellorubric.com/?eid=39022"
   },
-  {
-    id: 3,
-    title: "Collaboration Workshop: Generative AI",
-    date: "2025/09/08",
-    time: "4:00 PM",
-    location: "EZONE UWA Student Hub",
-    description: "Generative AI Data Cleaning Workshop (UWA × UniMelb Collaboration) Join us for a unique simultaneous workshop with the Data Science Student Society (UniMelb), where students from both campuses will learn, code, and compete together to build their own AI-powered data cleaning agent",
-    image: "https://cachedresources.hellorubric.com/uploaded_assets/8fd9020e-710e-47bc-ad18-babdc9a2a9f3.png",
-    price: "$0",
-    category: "Workshop",
-    level: "intermediate",
-    featured: true,
-    registrationUrl: "https://campus.hellorubric.com/?eid=39898"
-  },
 
-  
-  
-
-  
 ];
 
 const categoryColors = {
